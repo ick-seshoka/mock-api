@@ -29,7 +29,10 @@ The mock api exposes the following endpoint & methods:
 
 ## Instructions
 
-You can use __npm__ or __yarn__. We've used __yarn__ as a default, but feel free to using __npm__
+* Create a fork of this repository in your own GitHub account
+* Once complete, please send a link to your repository to tim@geminisolution.co.za and CC: elrika@geminisolution.co.za.
+
+* You can use __npm__ or __yarn__. We've used __yarn__ as a default, but feel free to using __npm__
 
 ### Yarn steps
 1. ```yarn```
