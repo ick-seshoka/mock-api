@@ -9,6 +9,7 @@ export const Main = styled.div`
   display: grid;
   grid-template-rows: 6em 1fr;
   justify-items: center;
+  padding-bottom: 4em;
 `;
 
 export const EmployiisCount = styled.p`

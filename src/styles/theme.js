@@ -7,6 +7,7 @@ export const theme = {
     blue_gray_dark: "#37474F",
     gray: "#F5F5F5",
     gray_white: "#FAFAFA",
+    gray_box: "#ECEFF1",
   },
   font: {
     logo: "1.5625em",
