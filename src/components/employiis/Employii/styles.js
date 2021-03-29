@@ -10,7 +10,7 @@ export const Container = styled.div`
   align-items: center;
   background-color: transparent;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0);
-  transition: 0.25s ease-in all;
+  transition: 0.1s ease-in all;
   padding-bottom: 0.9375em;
   transform: scale(1);
   cursor: pointer;
@@ -18,7 +18,7 @@ export const Container = styled.div`
   &:hover {
     background-color: ${({ theme: { colors } }) => colors.gray_box};
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
-    transform: scale(1.07);
+    transform: scale(1.05);
   }
 `;
 
