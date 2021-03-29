@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-import Employii from "./Employii";
+import Employii from "./employii";
 import { capitalizeName } from "helpers";
 
 import { Container } from "./styles";
