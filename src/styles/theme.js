@@ -12,5 +12,6 @@ export const theme = {
     logo: "1.5625em",
     heading: "2.1875em",
     paragragh: "1.25em",
+    tiny: "0.9375em",
   },
 };
