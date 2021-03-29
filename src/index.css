@@ -1,5 +1,21 @@
+:root {
+  --background-gray: #fafafa;
+}
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+html,
+#root,
+body {
+  height: 100%;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: var(--background-gray);
+  font-size: 16px;
 }
