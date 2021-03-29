@@ -15,7 +15,7 @@ export const Main = styled.div`
 export const Title = styled.div`
   font-size: ${({ theme: { font } }) => font.heading};
   color: ${({ theme: { colors } }) => colors.blue_gray_light};
-  font-weight: 900;
+  font-weight: 700;
   margin-bottom: 3.125em;
   text-transform: capitalize;
   margin-top: 2em;
